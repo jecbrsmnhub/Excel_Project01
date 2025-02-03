@@ -1,8 +1,22 @@
 # Excel_Project01
-**Introduction**
-I want to share what I’ve learned from Luke Barousse’s Excel for Data Analytics course. This project is based on his lessons, and I’m really grateful for the technical skills I’ve gained from him.
-Thanks to Luke Barousse!
+📝 **Introduction**
+Hello/Hi to whoever visits my repository! 👋
 
+My name is Jerric Bersamin, and I live in the Philippines. My journey into data analytics started in the most unexpected way—just inputting customer data into a worksheet. One day, I decided to create a simple monthly dashboard using that data. 
+That’s when I started wondering: Are there jobs out there related to Excel?
+
+That curiosity led me to discover Data Analytics. Before this, my knowledge of Excel was almost nothing. Even the basic SUM function was unfamiliar to me—I only knew how to input data into a cell.
+But as I kept exploring, I got more curious about what Excel could really do. I searched online for ways to autofill cells, do simple math, and use cell referencing. And that’s when everything changed.
+
+What started as a small curiosity turned into a passion for learning more about data.
+
+📝 **My Learning Journey**
 ![image](https://github.com/user-attachments/assets/e46fb86a-02f7-4898-9504-c0367bb67db5)
+• This is the output of the project. (from Luke Barousse YT: Excel For Data Analytics)
 
-This is the outcome of the first project that I learned to him.
+📝 **Before the Project Started**
+• I learned so much from his lessons, including how to transfer datasets to another worksheet or workbook, as well as exploring the ribbons, formulas, and functions.
+
+
+
+
