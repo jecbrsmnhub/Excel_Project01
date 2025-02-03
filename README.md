@@ -11,12 +11,18 @@ But as I kept exploring, I got more curious about what Excel could really do. I 
 What started as a small curiosity turned into a passion for learning more about data.
 
 📝 **My Learning Journey**
+
 ![image](https://github.com/user-attachments/assets/e46fb86a-02f7-4898-9504-c0367bb67db5)
-• This is the output of the project. (from Luke Barousse YT: Excel For Data Analytics)
+  • This is the output of the project. (from Luke Barousse YT: Excel For Data Analytics)
 
 📝 **Before the Project Started**
-• I learned so much from his lessons, including how to transfer datasets to another worksheet or workbook, as well as exploring the ribbons, formulas, and functions.
+  • I learned so much from his lessons, including how to transfer datasets to another worksheet or workbook, as well as exploring the ribbons, formulas, and functions.
 
+📝  **"What I love the most are:**
 
+  ✅ LOOKUP function
+  ✅ Statistical functions (along with Array Formulas)
+  ✅ Logical functions (IF)
 
+  • I really focused on these chapters, as I know they are crucial for manipulating the data.
 
