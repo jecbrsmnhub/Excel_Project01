@@ -28,5 +28,5 @@ The purpose of this project is to show the KPI for job seekers to determine if t
 
   • I really focused on these chapters, as I know they are crucial for manipulating the data.
 
-- (Not done yet.) Will continue the story of my progress...
+- (Not done yet.) Will continue the story of my progress... 😊😊
 
