@@ -13,6 +13,8 @@ What started as a small curiosity turned into a passion for learning more about 
 📝 **My Learning Journey**
 
 ![image](https://github.com/user-attachments/assets/e46fb86a-02f7-4898-9504-c0367bb67db5)
+The purpose of this project is to show the KPI for job seekers to determine if they were compensated correctly for their desired job. The project uses various metrics to compare job compensation against industry standards, helping individuals understand if they’re being paid fairly.
+
   • This is the output of the project. (from Luke Barousse YT: Excel For Data Analytics)
 
 📝 **Before the Project Started**
