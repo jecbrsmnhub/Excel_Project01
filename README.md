@@ -10,7 +10,7 @@ But as I kept exploring, I got more curious about what Excel could really do. I 
 
 What started as a small curiosity turned into a passion for learning more about data.
 
-📝 **My Learning Journey**
+#1📝 **My Learning Journey**#
 
 
 ![0206](https://github.com/user-attachments/assets/c90fbe8e-d7f3-4f56-a3a5-407ddad3d308)
@@ -31,5 +31,23 @@ The purpose of this project is to show the KPI for job seekers to determine if t
   ✅ Creating Visualization through Chart
   • I really focused on these chapters, as I know they are crucial for manipulating the data.
 
+📝 **Excel Skills Used**
+ • 📉 Charts
+ • 🧮 Formulas and Functions
+ • ❎ Data Validation
+
+This project primarily focuses on finding the median salary for data science jobs and specifying the median salary for each country.
+
+📌 **Bar Chart for Job Title**
+![image](https://github.com/user-attachments/assets/38277ad9-ba13-4613-ac1f-ddd30c71962c)
+ • 🧮 =UNIQUE() & =SORT() - Before to create a data validation (dropdown menu), We pulled the data from
+   our table that contains of our dataset.
+ • 📁 New Worksheet for Median salary we mainly focus on 
 - (Not done yet.) Will continue the story of my progress... 😊😊
+
+📌 **World Chart for Countries**
+![image](https://github.com/user-attachments/assets/63a0bd7e-2600-4aa1-8917-c1d6a56ff9da)
+
+📌 **Bar Chart for Schedule type**
+![image](https://github.com/user-attachments/assets/a9e0294c-40fa-4a35-aca9-a418d4bd5c51)
 
