@@ -39,7 +39,7 @@ The purpose of this project is to show the KPI for job seekers to determine if t
  • ❎ Data Validation
 
 📝 **Dataset**
-This project primarily focuses on finding the median salary for data science jobs and specifying the median salary for each country.
+This project primarily focuses on finding the median salary for data science jobs and that's correlate with the country.
 
 📌 **Bar Chart for Job Title**
 
