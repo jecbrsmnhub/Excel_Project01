@@ -14,7 +14,10 @@ What started as a small curiosity turned into a passion for learning more about 
 
 
 
-https://github.com/user-attachments/assets/cb3359e9-ba36-4d76-84b8-be739595aa9f
+
+!Alt https://github.com/user-attachments/assets/71fd5055-5fd3-4a4d-8c9f-6638aa0d7fb7
+
+
 
 
 The purpose of this project is to show the KPI for job seekers to determine if they were compensated correctly for their desired job. The project uses various metrics to compare job compensation against industry standards, helping individuals understand if they’re being paid fairly.
