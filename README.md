@@ -12,12 +12,7 @@ What started as a small curiosity turned into a passion for learning more about 
 
 📝 **My Learning Journey**
 
-
-
-
-https://github.com/user-attachments/assets/2a98d254-933b-4e90-a3d3-eb93d366006e
-
-
+![Uploading 0206.gif…]()
 
 
 The purpose of this project is to show the KPI for job seekers to determine if they were compensated correctly for their desired job. The project uses various metrics to compare job compensation against industry standards, helping individuals understand if they’re being paid fairly.
