@@ -28,10 +28,12 @@ The purpose of this project is to show the KPI for job seekers to determine if t
   ✅ LOOKUP function
   ✅ Statistical functions (along with Array Formulas)
   ✅ Logical functions (IF)
-  ✅ Creating Visualization through Chart
+  ✅ Creating Visualization through Chart  
+
   • I really focused on these chapters, as I know they are crucial for manipulating the data.
 
 📝 **Excel Skills Used**
+
  • 📉 Charts
  • 🧮 Formulas and Functions
  • ❎ Data Validation
@@ -42,6 +44,7 @@ This project primarily focuses on finding the median salary for data science job
 📌 **Bar Chart for Job Title**
 
 ![image](https://github.com/user-attachments/assets/38277ad9-ba13-4613-ac1f-ddd30c71962c)
+
  • 🧮 =UNIQUE() & =SORT() - Before to create a data validation (dropdown menu), We pulled the data from
    our table that contains of our dataset.
  • 📁 New Worksheet for Median salary we mainly focus on 
