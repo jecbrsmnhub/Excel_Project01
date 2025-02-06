@@ -15,7 +15,7 @@ What started as a small curiosity turned into a passion for learning more about 
 
 
 
-![project01](https://github.com/user-attachments/assets/2a98d254-933b-4e90-a3d3-eb93d366006e)
+https://github.com/user-attachments/assets/2a98d254-933b-4e90-a3d3-eb93d366006e
 
 
 
